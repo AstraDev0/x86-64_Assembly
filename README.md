@@ -51,13 +51,3 @@ To completely remove all generated files, including object files, run:
 ```bash
 make fclean
 ```
-
-## Notes
-- **Cheating Warning:** Code should be your own work. Broken code is preferred over copied code that isn't fully understood.
-- Ensure all unnecessary files (binaries, temp files, obj files) are excluded from your final delivery.
-
-## Resources
-- Refer to the man pages for each function for detailed specifications.
-
-## Contributors
-- List any contributors to the project here.
