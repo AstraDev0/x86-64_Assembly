@@ -52,11 +52,6 @@ To completely remove all generated files, including object files, run:
 make fclean
 ```
 
-## Bonus Points
-- Additional interesting functions beyond the required set.
-- Support for other architectures such as 32-bit x86 or ARM.
-- Any useful enhancements or optimizations.
-
 ## Notes
 - **Cheating Warning:** Code should be your own work. Broken code is preferred over copied code that isn't fully understood.
 - Ensure all unnecessary files (binaries, temp files, obj files) are excluded from your final delivery.
